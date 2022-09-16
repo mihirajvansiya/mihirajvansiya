@@ -1,4 +1,4 @@
-## Hi 👋, I'm Amisha <img src="https://media4.giphy.com/media/PgnpGT8tJsWfNabS8d/giphy.gif" width="50"> 
+## Hi 👋, I'm Mihiraj 
 
 
 - 🔭 I’m currently working on SDE
