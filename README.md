@@ -11,7 +11,7 @@
 
 - **Languages**: `C++`,`C`, `Python`
 
-- **Python libraries**: `Numpy`,`Pandas`, `Matplotlib`, `Seaborn`, `Sci-kit-Learn`
+- **Python libraries**: `Numpy`,`Pandas`, `Matplotlib`, `Seaborn`, `Sci-kit-Learn`,'`Tensorflow`
 
 - **Database Technologies**: `MySQL` , `SQL`
 
