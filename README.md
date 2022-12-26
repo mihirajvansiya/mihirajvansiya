@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Mihiraj 
 
 
-- 🔭 I’m currently working on Python/Data Science & AI
+- 🔭 I’m currently working on Backend Development
 - ⚡ Fun fact: I love playing Chess even though i am noob in chess
 
 <br>
