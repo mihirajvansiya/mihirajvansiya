@@ -9,13 +9,13 @@
 
 ### :gear: My skills include:
 
-- **Languages**: `C++`,`C`, `Python`
+- **Languages**: `C++`,`PHP`, `Python`, `Javascript`
 
 - **Python Libraries**: `Numpy`,`Pandas`, `Matplotlib`, `Seaborn`, `Sci-kit-Learn`,`Tensorflow`
 
 - **Python Frameworks**: `Django`,`Flask`
 
-- **Database Technologies**: `MySQL` , `SQL`
+- **Database Technologies**: `MySQL` , `SQL`, `MongoDB`
 
 
 
