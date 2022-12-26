@@ -11,11 +11,11 @@
 
 - **Languages**: `C++`,`PHP`, `Python`, `Javascript`
 
-- **Python Libraries**: `Numpy`,`Pandas`, `Matplotlib`, `Seaborn`, `Sci-kit-Learn`,`Tensorflow`
+- **Backend Frameworks**: `HTML5`,`CSS3`, `JS`, `Laravel`, `Django`, `Node.js`
 
-- **Python Frameworks**: `Django`,`Flask`
+- **Database Technologies**: `MySQL` , `MongoDB`
 
-- **Database Technologies**: `MySQL` , `SQL`, `MongoDB`
+- **Programming Profiles**: `LeetCode`,`Geeksforgeeks`
 
 
 
