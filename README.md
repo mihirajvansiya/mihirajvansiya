@@ -9,9 +9,9 @@
 
 ### :gear: My skills include:
 
-- **Languages**: `C++`,`PHP`, `Python`, `Javascript`
+- **Languages**: `C++`,`PHP`, `Python`, `HTML5`, `CSS3`,`Javascript`
 
-- **Backend Frameworks**: `HTML5`,`CSS3`, `JS`, `Laravel`, `Django`, `Node.js`
+- **Backend Frameworks**:  `Laravel`, `Django`, `Node.js`
 
 - **Database Technologies**: `MySQL` , `MongoDB`
 
