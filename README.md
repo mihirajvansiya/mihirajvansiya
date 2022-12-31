@@ -1,8 +1,7 @@
-## Hi 👋, I'm Mihiraj 
+## Hello, I'm Mihiraj 
 
 
-- 🔭 I’m currently working on Backend Development
-- ⚡ Fun fact: I love playing Chess even though i am noob in chess
+- <h2>Backend Developer(PHP/Laravel)</h2>
 
 <br>
 
@@ -11,7 +10,7 @@
 
 - **Languages**: `C++`,`PHP`, `Python`, `HTML5`, `CSS3`,`Javascript`
 
-- **Backend Frameworks**:  `Laravel`, `Django`, `Node.js`
+- **Backend Frameworks**:  `Laravel`, `Django`, `Node.js`,`Express.js`
 
 - **Database Technologies**: `MySQL` , `MongoDB`
 
