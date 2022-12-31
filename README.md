@@ -14,7 +14,7 @@
 
 - **Database Technologies**: `MySQL` , `MongoDB`
 
-- **Programming Profiles**:  [LeetCode](https://leetcode.com/mihiraj2001/), [Geeksforgeeks]
+- **Programming Profiles**:  [LeetCode](https://leetcode.com/mihiraj2001/), [Geeksforgeeks](https://auth.geeksforgeeks.org/user/mihiraj_vansiya)
 
 
 
